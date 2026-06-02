@@ -17,7 +17,7 @@ public class drawaSquare
             }
 
             Console.WriteLine();
-
+            //
         }
 
     }
